@@ -1,2 +1,3 @@
 # hello_world
-My first repository
+
+Salut, tout le monde! Je m'appelle Helene!
